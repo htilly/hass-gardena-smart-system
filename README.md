@@ -65,8 +65,6 @@
 
 A **complete reimplementation** of the Home Assistant integration for the Gardena Smart System, based on Gardena's v2 API.
 
-[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=py-smart-gardena&repository=hass-gardena-smart-system&category=integration)
-
 ## ⚠️ Important: Complete Reimplementation
 
 This is a **complete rewrite** of the Gardena Smart System integration. It is **strongly recommended** to:
